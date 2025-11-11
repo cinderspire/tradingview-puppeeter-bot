@@ -1,4 +1,7 @@
 # AutomatedTradeBot - Signal Capture & Trading Platform
+<img width="1895" height="900" alt="Ekran görüntüsü 2025-11-11 232901" src="https://github.com/user-attachments/assets/40611459-6b33-43b0-ae9f-a2701583da73" />
+
+<img width="1816" height="917" alt="Ekran görüntüsü 2025-11-11 232944" src="https://github.com/user-attachments/assets/5c027f27-cd6c-4fb0-a7d8-266aeed9c646" />
 
 Complete trading signal marketplace with real-time TradingView and Telegram signal capture, paper trading, and automated execution across 100+ exchanges.
 
